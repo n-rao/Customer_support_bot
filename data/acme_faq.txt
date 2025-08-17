@@ -1,0 +1,19 @@
+ACME Store — Customer FAQ
+
+Q: What are your shipping options?
+A: We offer Standard (5–7 business days) and Expedited (2–3 business days) shipping within the contiguous US.
+
+Q: Do you ship internationally?
+A: Yes, to Canada and the EU. Duties and taxes are paid by the recipient upon delivery.
+
+Q: What is your return policy?
+A: 30 days from delivery for unused items in original packaging. Refunds applied to the original payment method.
+
+Q: How do I track my order?
+A: After purchase, you receive a tracking link via email. You can also log in to your account to view status.
+
+Q: Which payment methods are accepted?
+A: Visa, MasterCard, AmEx, PayPal, and Apple Pay.
+
+Q: How can I contact support?
+A: Email support@acme.co or call +1 (555) 123-4567 Mon–Fri, 9am–6pm CT.

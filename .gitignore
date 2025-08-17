@@ -19,4 +19,9 @@ storage/
 
 # Jupyter
 .ipynb_checkpoints/
+.env
+.env.swp
+.venv/
+storage/
+__pycache__/
 

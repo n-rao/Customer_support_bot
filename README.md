@@ -1,4 +1,4 @@
-# RAG Customer Service Assistant (Low-Code)
+# RAG Customer Service Assistant
 
 A lightweight Retrieval-Augmented Generation (RAG) chatbot for customer support.
 - **No external vector DB**: stores embeddings locally with NumPy.
